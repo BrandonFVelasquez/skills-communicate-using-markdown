@@ -6,3 +6,7 @@
 ###### Smallest...
 
 ![image of the ironcat](https://octodex.github.com/images/ironcat.jpg)
+
+``` java
+String myVar = "Hello, world!";
+```
